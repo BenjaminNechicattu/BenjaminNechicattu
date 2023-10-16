@@ -11,14 +11,12 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=36&pause=300&random=false&width=435&lines=++++++++++++I++am++Benjamin++G;You+can+call+me+Ben_G" alt="I am BenG">
 <p>
-
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Benjamin+Nechicattu">「 Google Me 」</a>
     <br>
     「 I am a Software Engineer, Science and Tech Enthusiast. 」
     <br>
-
   </samp>
 </p>
 
