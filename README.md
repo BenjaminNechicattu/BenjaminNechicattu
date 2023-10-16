@@ -22,6 +22,6 @@
   </samp>
 </p>
 
-
-![git_prog](https://github.com/BenjaminNechicattu/BenjaminNechicattu/blob/main/github-user-contribution.svg)
-
+<p align="center"> 
+   <img src="https://github.com/BenjaminNechicattu/BenjaminNechicattu/blob/main/github-user-contribution.svg" alt="I am Git Progress">
+</p>
