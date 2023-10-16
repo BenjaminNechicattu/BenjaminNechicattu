@@ -9,7 +9,7 @@
      Hey There!,
 </h3> 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=36&pause=1000&random=false&width=435&lines=I+am+Benjamin+G;You+can+call+me+Ben_G" alt="I am BenG">
+   <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=36&pause=300&random=false&width=435&lines=++++++++++++I++am++Benjamin++G;You+can+call+me+Ben_G" alt="I am BenG">
 <p>
 
 <p align="center"> 
