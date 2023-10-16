@@ -3,8 +3,6 @@
 </a>
 
 
-
-<!-- Intro  -->
 <h3 align="center">
      Hey There!,
 </h3> 
