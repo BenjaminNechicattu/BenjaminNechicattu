@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![git_prog](https://github.com/BenjaminNechicattu/BenjaminNechicattu/blob/main/github-user-contribution.svg
+![git_prog](https://github.com/BenjaminNechicattu/BenjaminNechicattu/blob/main/github-user-contribution.svg)
 
