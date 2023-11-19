@@ -16,7 +16,7 @@
     「I am a Software Engineer, Science and Tech Enthusiast.」
     <br>
     <br>
-    「IBMer.」
+    「IBMer」
     <br>
   </samp>
 </p>
